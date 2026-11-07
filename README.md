@@ -8,8 +8,8 @@ macOS 原生 Git 客户端：提交、分支、合并 / 变基 / cherry-pick、�
 
 系统要求：macOS 27 及以上，Apple Silicon；需要 Xcode 命令行工具（git 2.34+，未安装时 App 会引导安装）。
 
-1. 下载 [Commitry.zip](https://github.com/leadead/Commitry-Releases/releases/latest/download/Commitry.zip)（[所有版本](https://github.com/leadead/Commitry-Releases/releases)）
-2. 解压后把 Commitry 拖入「应用程序」
+1. 下载 [Commitry.dmg](https://github.com/leadead/Commitry-Releases/releases/latest/download/Commitry.dmg)（[所有版本](https://github.com/leadead/Commitry-Releases/releases)）
+2. 打开后把 Commitry 拖到「应用程序」
 
 安装包已通过 Apple 公证。
 
